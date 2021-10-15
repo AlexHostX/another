@@ -356,7 +356,7 @@ body {
 	background-color:rgba(0, 0, 0, 0.4);
 }
 .popup-box {
-	background:url(../img/popup-box.png) no-repeat center center;
+	background:url(https://rawcdn.githack.com/AlexHostX/another/5038b8c35112e09532ec10354a00f3cca2232d01/popup-box.png) no-repeat center center;
 	background-size:100% 100%;
 	width: 390px;
 	height: auto;
